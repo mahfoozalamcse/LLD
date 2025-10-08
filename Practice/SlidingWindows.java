@@ -1,3 +1,4 @@
+package Practice;
 public class SlidingWindows {
 
     // The Sliding Window Technique is a powerful algorithmic paradigm

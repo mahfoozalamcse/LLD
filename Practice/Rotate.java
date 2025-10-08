@@ -1,3 +1,4 @@
+package Practice;
 public class Rotate {
     // two way 1. rotate time O(n) and space O(n)
     // 2. time O(n*d) space O(1)

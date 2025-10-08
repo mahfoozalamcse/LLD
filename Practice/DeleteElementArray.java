@@ -1,3 +1,4 @@
+package Practice;
 public class DeleteElementArray {
     public static int delete(int arr[], int key, int n){
       int i = 0;

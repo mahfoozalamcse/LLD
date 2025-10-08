@@ -1,3 +1,4 @@
+package Practice;
 public class Searchelement {
 
     public static void search(int arr[], int key){
