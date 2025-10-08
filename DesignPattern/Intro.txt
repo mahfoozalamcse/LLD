@@ -1,0 +1,12 @@
+Types of Design Patterns
+
+Design patterns are generally categorized into three types:
+
+Type	   ->           Purpose	         ->             Example Patterns
+1. Creational  ->	Deals with object creation ->	(Singleton, Factory, Builder, Prototype)
+
+
+2. Structural	-> Deals with class/object composition	-> (Adapter, Composite, Decorator, Proxy)
+
+
+3. Behavioral	->  Deals with object interaction & responsibility	->  (Strategy, Observer, Command, Template Method)

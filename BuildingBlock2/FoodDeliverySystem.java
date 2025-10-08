@@ -172,8 +172,8 @@ public class FoodDeliverySystem {
         dominos.addItem(new MenuItem("Coke", 2.0));
 
         // Create Customer & Delivery Agent (inheritance)
-        Customer alice = new Customer("Alam", "alice@gmail.com");
-        DeliveryAgent bob = new DeliveryAgent("Mahfooz", "bob@delivery.com");
+        Customer alice = new Customer("Alam", "alam@gmail.com");
+        DeliveryAgent bob = new DeliveryAgent("Mahfooz", "mahfooz@delivery.com");
 
         alice.displayRole();
         bob.displayRole();
