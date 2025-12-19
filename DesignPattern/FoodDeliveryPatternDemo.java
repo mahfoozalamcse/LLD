@@ -38,6 +38,7 @@ class StripeStrategy implements PaymentStrategy {
 }
 
 
+
 // 3. Factory Pattern — Payment Factory
 
 class PaymentFactory {
